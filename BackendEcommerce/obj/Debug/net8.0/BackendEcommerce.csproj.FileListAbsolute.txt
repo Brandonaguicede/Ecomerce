@@ -1,0 +1,302 @@
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.csproj.AssemblyReference.cache
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.GeneratedMSBuildEditorConfig.editorconfig
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.AssemblyInfoInputs.cache
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.AssemblyInfo.cs
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.csproj.CoreCompileInputs.cache
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.MvcApplicationPartsAssemblyInfo.cs
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.MvcApplicationPartsAssemblyInfo.cache
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\appsettings.Development.json
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\appsettings.json
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\BackendEcommerce.staticwebassets.endpoints.json
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\BackendEcommerce.exe
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\BackendEcommerce.deps.json
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\BackendEcommerce.runtimeconfig.json
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\BackendEcommerce.dll
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\BackendEcommerce.pdb
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\scopedcss\bundle\BackendEcommerce.styles.css
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\staticwebassets.build.json
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\staticwebassets.development.json
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\staticwebassets\msbuild.BackendEcommerce.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\staticwebassets\msbuild.BackendEcommerce.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\staticwebassets\msbuild.build.BackendEcommerce.props
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BackendEcommerce.props
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BackendEcommerce.props
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\BackendE.F51DD06A.Up2Date
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.dll
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\refint\BackendEcommerce.dll
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.pdb
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.genruntimeconfig.cache
+E:\Universidad\UNA\Segundo Año\Programacion ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\ref\BackendEcommerce.dll
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\appsettings.json
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\BackendEcommerce.staticwebassets.endpoints.json
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\BackendEcommerce.exe
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\BackendEcommerce.deps.json
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\BackendEcommerce.runtimeconfig.json
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\BackendEcommerce.dll
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\BackendEcommerce.pdb
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.csproj.AssemblyReference.cache
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.AssemblyInfoInputs.cache
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.AssemblyInfo.cs
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.csproj.CoreCompileInputs.cache
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\scopedcss\bundle\BackendEcommerce.styles.css
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\staticwebassets\msbuild.BackendEcommerce.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\staticwebassets\msbuild.BackendEcommerce.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\staticwebassets\msbuild.build.BackendEcommerce.props
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BackendEcommerce.props
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BackendEcommerce.props
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\BackendE.F51DD06A.Up2Date
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.dll
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\refint\BackendEcommerce.dll
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.pdb
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.genruntimeconfig.cache
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\ref\BackendEcommerce.dll
+C:\Users\solan\Desktop\Proyecto 1 Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\OrderConfirmation.html
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\appsettings.json
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\OrderConfirmation.html
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\BackendEcommerce.staticwebassets.endpoints.json
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\BackendEcommerce.exe
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\BackendEcommerce.deps.json
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\BackendEcommerce.runtimeconfig.json
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\BackendEcommerce.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\BackendEcommerce.pdb
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.csproj.AssemblyReference.cache
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.AssemblyInfoInputs.cache
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.AssemblyInfo.cs
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.csproj.CoreCompileInputs.cache
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\scopedcss\bundle\BackendEcommerce.styles.css
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\staticwebassets\msbuild.BackendEcommerce.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\staticwebassets\msbuild.BackendEcommerce.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\staticwebassets\msbuild.build.BackendEcommerce.props
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BackendEcommerce.props
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BackendEcommerce.props
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\BackendE.F51DD06A.Up2Date
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\refint\BackendEcommerce.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.pdb
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.genruntimeconfig.cache
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\ref\BackendEcommerce.dll
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\appsettings.json
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\OrderConfirmation.html
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\BackendEcommerce.staticwebassets.endpoints.json
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\BackendEcommerce.exe
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\BackendEcommerce.deps.json
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\BackendEcommerce.runtimeconfig.json
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\BackendEcommerce.dll
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\BackendEcommerce.pdb
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.csproj.AssemblyReference.cache
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.AssemblyInfoInputs.cache
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.AssemblyInfo.cs
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.csproj.CoreCompileInputs.cache
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\scopedcss\bundle\BackendEcommerce.styles.css
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\staticwebassets\msbuild.BackendEcommerce.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\staticwebassets\msbuild.BackendEcommerce.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\staticwebassets\msbuild.build.BackendEcommerce.props
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BackendEcommerce.props
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BackendEcommerce.props
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\BackendE.F51DD06A.Up2Date
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.dll
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\refint\BackendEcommerce.dll
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.pdb
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.genruntimeconfig.cache
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\obj\Debug\net8.0\ref\BackendEcommerce.dll
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Database.dll
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Services.dll
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Database.pdb
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\BackendEcommerce\bin\Debug\net8.0\Services.pdb
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\appsettings.json
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\OrderConfirmation.html
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\BackendEcommerce.staticwebassets.endpoints.json
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\BackendEcommerce.exe
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\BackendEcommerce.deps.json
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\BackendEcommerce.runtimeconfig.json
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\BackendEcommerce.dll
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\BackendEcommerce.pdb
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\Database.dll
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\Services.dll
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\Database.pdb
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\Services.pdb
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.csproj.AssemblyReference.cache
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.AssemblyInfoInputs.cache
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.AssemblyInfo.cs
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.csproj.CoreCompileInputs.cache
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\obj\Debug\net8.0\scopedcss\bundle\BackendEcommerce.styles.css
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\obj\Debug\net8.0\staticwebassets\msbuild.BackendEcommerce.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\obj\Debug\net8.0\staticwebassets\msbuild.BackendEcommerce.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\obj\Debug\net8.0\staticwebassets\msbuild.build.BackendEcommerce.props
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BackendEcommerce.props
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BackendEcommerce.props
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\obj\Debug\net8.0\BackendE.F51DD06A.Up2Date
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.dll
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\obj\Debug\net8.0\refint\BackendEcommerce.dll
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.pdb
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.genruntimeconfig.cache
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\obj\Debug\net8.0\ref\BackendEcommerce.dll
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\appsettings.json
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\BackendEcommerce.staticwebassets.endpoints.json
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\OrderConfirmation.html
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\BackendEcommerce.exe
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\BackendEcommerce.deps.json
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\BackendEcommerce.runtimeconfig.json
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\BackendEcommerce.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\BackendEcommerce.pdb
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\Database.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\Services.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\Database.pdb
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\bin\Debug\net8.0\Services.pdb
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.csproj.AssemblyReference.cache
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.AssemblyInfoInputs.cache
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.AssemblyInfo.cs
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.csproj.CoreCompileInputs.cache
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\obj\Debug\net8.0\scopedcss\bundle\BackendEcommerce.styles.css
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\obj\Debug\net8.0\BackendE.F51DD06A.Up2Date
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\obj\Debug\net8.0\refint\BackendEcommerce.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.pdb
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\obj\Debug\net8.0\BackendEcommerce.genruntimeconfig.cache
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\BackendEcommerce\obj\Debug\net8.0\ref\BackendEcommerce.dll
