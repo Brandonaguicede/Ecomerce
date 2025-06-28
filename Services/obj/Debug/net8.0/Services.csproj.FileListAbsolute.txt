@@ -1,0 +1,45 @@
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\Services\bin\Debug\net8.0\Services.deps.json
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\Services\bin\Debug\net8.0\Services.dll
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\Services\bin\Debug\net8.0\Services.pdb
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\Services\bin\Debug\net8.0\Database.dll
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\Services\bin\Debug\net8.0\Database.pdb
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\Services\obj\Debug\net8.0\Services.dll
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\Services\obj\Debug\net8.0\refint\Services.dll
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\Services\obj\Debug\net8.0\Services.pdb
+C:\Users\jhern\OneDrive\Desktop\BackendEcommerce v10\BackendEcommerce\BackendEcommerce\Services\obj\Debug\net8.0\ref\Services.dll
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\Services\bin\Debug\net8.0\Services.deps.json
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\Services\bin\Debug\net8.0\Services.dll
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\Services\bin\Debug\net8.0\Services.pdb
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\Services\bin\Debug\net8.0\Database.dll
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\Services\bin\Debug\net8.0\Database.pdb
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\Services\obj\Debug\net8.0\Services.dll
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\Services\obj\Debug\net8.0\refint\Services.dll
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\Services\obj\Debug\net8.0\Services.pdb
+C:\Users\aguir\OneDrive\Escritorio\BackendEcommerce11\Services\obj\Debug\net8.0\ref\Services.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\Services\bin\Debug\net8.0\Services.deps.json
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\Services\bin\Debug\net8.0\Services.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\Services\bin\Debug\net8.0\Services.pdb
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\Services\bin\Debug\net8.0\Database.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\Services\bin\Debug\net8.0\Database.pdb
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\Services\obj\Debug\net8.0\Services.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\Services\obj\Debug\net8.0\refint\Services.dll
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\Services\obj\Debug\net8.0\Services.pdb
+C:\Users\solan\Desktop\Proyecto Progra ll\BackendEcommerce12\BackendEcommerce11\Services\obj\Debug\net8.0\ref\Services.dll
